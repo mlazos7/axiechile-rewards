@@ -1,0 +1,686 @@
+{
+  "Items": [
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601577,
+      "rewards": 318,
+      "pvpElo": 1745,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x408c6cde6744013dd00d4188382a424c6ed1d9b3",
+      "id": "A019",
+      "name": "A019 | Gianfranco Muñoz"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601600,
+      "rewards": 264,
+      "pvpElo": 1652,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x30a662c23b0545cbbdf83385760f243bc8b062f3",
+      "id": "B026",
+      "name": "B026 | Moisés Bracamonte"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601559,
+      "rewards": 0,
+      "pvpElo": 1297,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x710333ca183d809f417afab6353366ec466bfe14",
+      "id": "A011",
+      "name": "A011 | Jonathan Galindo Rojas"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801672,
+      "rewards": 0,
+      "pvpElo": 1164,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x77c384d706e9c2bb046a6ebccd3b549094991599",
+      "id": "B015",
+      "name": "B015 | Victor Galindo"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601549,
+      "rewards": 0,
+      "pvpElo": 1438,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x879671d36fdf77da64f47fd932e6d40ca666501b",
+      "id": "A003",
+      "name": "A003 | Anderson Liotta"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801694,
+      "rewards": 0,
+      "pvpElo": 1372,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xc28fb7920ada86efd94fdfcc126066e6242d8162",
+      "id": "B053",
+      "name": "B053 | Elias Schiel"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801674,
+      "rewards": 0,
+      "pvpElo": 1183,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x6ab5d2e76e487cca5d27e802cf0ce97410c5f461",
+      "id": "B021",
+      "name": "B021 | Alejandro Ballesteros"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801797,
+      "rewards": 0,
+      "pvpElo": 1053,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xcf527653443a227ad669dad5298620568ce365f5",
+      "id": "A009",
+      "name": "A009 | Marcos Facundo Perini"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801684,
+      "rewards": 408,
+      "pvpElo": 1648,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x369d15ccbad5454fe791e23999dd7d7430e4da63",
+      "id": "A026",
+      "name": "A026 | Zinedine Ronaldo Aguilar Santos"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801851,
+      "rewards": 0,
+      "pvpElo": 1310,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x904d35a37e81d64daec3da19d9a7c1225330a1bc",
+      "id": "A012",
+      "name": "A012 | Lautaro Nahuel Caballero"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636396201632,
+      "rewards": 0,
+      "pvpElo": 1179,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x44f2f31a6b5cb362e80f78ebb50ee5bdca2b592e",
+      "id": "B002",
+      "name": "B002 | Astrid Gamez "
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601557,
+      "rewards": 0,
+      "pvpElo": 1284,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xe3bff0535077abd463752e3bdd147f1c55f907a4",
+      "id": "B033",
+      "name": "B033 | Ricardo Silva"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801926,
+      "rewards": 0,
+      "pvpElo": 1150,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x45198f50a7a283ccfd123f819ba208d7201f4a93",
+      "id": "B013",
+      "name": "B013 | Enderly Lugo"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801735,
+      "rewards": 264,
+      "pvpElo": 1607,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xdcf3336d02a2473fc02184371bfeb1c8c5be74a8",
+      "id": "B003",
+      "name": "B003 | Ashley Gonzalez"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801661,
+      "rewards": 0,
+      "pvpElo": 1308,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x1a0d6469a7de7c761401f9a51ab583f4a811dc6e",
+      "id": "A006",
+      "name": "A006 | Diego Alejandro García Sánchez"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801687,
+      "rewards": 0,
+      "pvpElo": 921,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x359e58d3e6e438488d0217b4f1d24fdce7aace35",
+      "id": "B038",
+      "name": "B038 | Mauricio Perez"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801699,
+      "rewards": 0,
+      "pvpElo": 1185,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xbf7ad43a127c1cd04ca73d4b23085d218dd3198c",
+      "id": "A022",
+      "name": "A022 | Génesis Muñoz"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601553,
+      "rewards": 0,
+      "pvpElo": 1166,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xbd8a9b97a0d19928115414ce6144fb90f3f4e79e",
+      "id": "B048",
+      "name": "B048 | Luca Comuzzi"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801709,
+      "rewards": 683,
+      "pvpElo": 2304,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x35ef46ebd698a58377c5f6bf5efc3f91e0d316f3",
+      "id": "A018",
+      "name": "A018 | Jorge González"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801705,
+      "rewards": 0,
+      "pvpElo": 1266,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x713228773500a7bfa8401ce731f5999c7895240f",
+      "id": "B023",
+      "name": "B023 | Francisca Riquelme"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801695,
+      "rewards": 858,
+      "pvpElo": 2364,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x6c8eeac96ede2559dd6a0a9daee8304928f02c84",
+      "id": "A008",
+      "name": "A008 | Jesús Gabriel Hernández Domínguez "
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801669,
+      "rewards": 0,
+      "pvpElo": 1156,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x64e89816540e7bc8f259c5c814f9b3ebd84fcccf",
+      "id": "B039",
+      "name": "B039 | Nicolas Calvo"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801711,
+      "rewards": 0,
+      "pvpElo": 1471,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x7676e5fc11202c7acd2313cc864cf3bc398c8be0",
+      "id": "B051",
+      "name": "B051 | Franco Damian Cardozo"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801676,
+      "rewards": 366,
+      "pvpElo": 1921,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xa31d48b3e3634a037d89b5945cdb6d168d162afd",
+      "id": "A023",
+      "name": "A023 | Yurimar Zambrano"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636389001587,
+      "rewards": 0,
+      "pvpElo": 1354,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x590df5c224b8496d34d6bf152426ccd96bed10ac",
+      "id": "A004",
+      "name": "A004 | Ernes Sosa"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801672,
+      "rewards": 248,
+      "pvpElo": 1580,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xd9b43df30551ef5de704e88d1ae057722f738f27",
+      "id": "B030",
+      "name": "B030 | José Abdelnour"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801679,
+      "rewards": 0,
+      "pvpElo": 1257,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xad5ccfe337c25365a7dc0595053493069443e0ba",
+      "id": "A014",
+      "name": "A014 | Gloria Muñoz"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801780,
+      "rewards": 248,
+      "pvpElo": 1660,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x9af1f06285602d681c84ab2857049985e913a6e0",
+      "id": "B040",
+      "name": "B040 | Gonzalo Yañez"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801693,
+      "rewards": 0,
+      "pvpElo": 1110,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xacaeb0702e611656a25f29e505a80304b25b32b0",
+      "id": "B018",
+      "name": "B018 | Estefanía Lucena"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801724,
+      "rewards": 0,
+      "pvpElo": 1290,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x047a64dbfc2aea23789596fd4c76cbb5b43480a8",
+      "id": "B016",
+      "name": "B016 | Norge Castro"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801726,
+      "rewards": 0,
+      "pvpElo": 1178,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xa4c9bc736649323635085e43b23a4ddf55e59c89",
+      "id": "B046",
+      "name": "B046 | Pablo Pucheta"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601556,
+      "rewards": 0,
+      "pvpElo": 1032,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x52ca17e63f4d1bbdccae4ece08cae49e4e9de48d",
+      "id": "B041",
+      "name": "B041 | Jorge Muñoz"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636389001517,
+      "rewards": 486,
+      "pvpElo": 1904,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xcc42c3cde5469a0b8487785b7ea34a8a6d8f0c56",
+      "id": "B052",
+      "name": "B052 | Carlos Chira"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399802021,
+      "rewards": 598,
+      "pvpElo": 2026,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xfc3ac422183b02976adf620a17a0095f5cf22848",
+      "id": "B010",
+      "name": "B010 | Kevin Pasion Payano"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801851,
+      "rewards": 0,
+      "pvpElo": 2839,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xc973923f63bbca58b99fee5a9993ca6d177898cd",
+      "id": "A001",
+      "name": "A001 | Matias Lazos"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801715,
+      "rewards": 0,
+      "pvpElo": 1144,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x9c025cfdd9b31c01ea0c8e7c774db9db38f64dc8",
+      "id": "B022",
+      "name": "B022 | Benjamín Vera"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636385402102,
+      "rewards": 482,
+      "pvpElo": 1891,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x3eeb0a92a45afbd155fb6b6b8303c239adfb41a3",
+      "id": "B028",
+      "name": "B028 | Kevin Wilson Muñoz"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801773,
+      "rewards": 0,
+      "pvpElo": 1292,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x5e7aea13ffc396407424436c137d1de7f58bc10b",
+      "id": "B011",
+      "name": "B011 | Luis Gustavo Martinez"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801773,
+      "rewards": 264,
+      "pvpElo": 1706,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x22e7b8de725ccb0982af1da285e7b72b01d0fde5",
+      "id": "B004",
+      "name": "B004 | Daniel Carrasco"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801701,
+      "rewards": 550,
+      "pvpElo": 2008,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x8c698ef4bcbfe30360489db0956c7549aa3036f4",
+      "id": "B025",
+      "name": "B025 | Luis Carrillo"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801731,
+      "rewards": 360,
+      "pvpElo": 1743,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x0d7a4bdac652f9e41c0c30726e1a58cd2a0cbe2e",
+      "id": "B006",
+      "name": "B006 | Daniel Enrique Varela Bravo"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801695,
+      "rewards": 0,
+      "pvpElo": 1129,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x9c8c41fff2ac3f073b6ca0abeee305265d3b43f5",
+      "id": "B027",
+      "name": "B027 | Joymar Ramirez"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801732,
+      "rewards": 0,
+      "pvpElo": 1261,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x5473dcdede0c6a3f8ed5bd11ecbdd93bab26246e",
+      "id": "B050",
+      "name": "B050 | Mauricio Mercado"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801750,
+      "rewards": 0,
+      "pvpElo": 1214,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xfd83afce9580bbc71b1bfe4904d032afab894ac4",
+      "id": "B020",
+      "name": "B020 | Miguel Gutierrez"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801705,
+      "rewards": 0,
+      "pvpElo": 1222,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x31d53d5cc93017f6d3b339995411d233e5927e10",
+      "id": "B008",
+      "name": "B008 | Elizabeth Argotes"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801809,
+      "rewards": 0,
+      "pvpElo": 1287,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xfa47d4bb48562680530db4f6b0bcf7f55383420a",
+      "id": "B012",
+      "name": "B012 | Ignacio Gasparini"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601705,
+      "rewards": 0,
+      "pvpElo": 1290,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x5a3b01476b97315b51d3e72e0bcb1caffc5ce7fb",
+      "id": "A017",
+      "name": "A017 | Brayan Alexander Urbina Fajardo"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801781,
+      "rewards": 0,
+      "pvpElo": 1463,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xd7de0f9f6f3d71986a56d92b522a04126d24a5b8",
+      "id": "A020",
+      "name": "A020 | Jhonfree Mauricio Blanco Arteaga"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801705,
+      "rewards": 264,
+      "pvpElo": 1588,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x7ccd1aabe25e06027486ce32bd09f53be02e60a5",
+      "id": "B049",
+      "name": "B049 | Daniel Quezada"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801699,
+      "rewards": 0,
+      "pvpElo": 1286,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x687f094846f23604dfc6124ab9e21d41eeb58bde",
+      "id": "A021",
+      "name": "A021 | Veruska Higuerey Núñez "
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601603,
+      "rewards": 0,
+      "pvpElo": 1330,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x86a8dcd47424113aec77e02708bd897b0159299c",
+      "id": "B042",
+      "name": "B042 | Thomas Urra"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801773,
+      "rewards": 0,
+      "pvpElo": 1089,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xc9926d3fafcd08a462960ee3e4b3e9bd42c1e211",
+      "id": "B044",
+      "name": "B044 | Leonardo Montenegro"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801723,
+      "rewards": 24,
+      "pvpElo": 1551,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x1739150b5c5e121da7f8d4029f0dfee52ce5b823",
+      "id": "B005",
+      "name": "B005 | María Esthefania Ascanio"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801936,
+      "rewards": 0,
+      "pvpElo": 1327,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xe724875ba5b319274c21c560531b7a6400abd68f",
+      "id": "A013",
+      "name": "A013 | Gonzalo Soto"
+    },
+    {
+      "paymentAddress": "ronin:c973923f63bbca58b99fee5a9993ca6d177898cd",
+      "updateTime": 1636392601554,
+      "rewards": 0,
+      "pvpElo": 2253,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x5dd32561540d33b14663bb25c6acfe4878c83c25",
+      "id": "A007",
+      "name": "A007 | Thomas Fuentes"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801732,
+      "rewards": 0,
+      "pvpElo": 1229,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x47b18bec157eaeb2c64ad9834fc6527bbea078c4",
+      "id": "B009",
+      "name": "B009 | Roberto Andrés Yanez Escalona"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601664,
+      "rewards": 0,
+      "pvpElo": 1024,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x71d5a76821052af499c0519467f116cee16f0833",
+      "id": "A025",
+      "name": "A025 | Juan Pedreza"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801801,
+      "rewards": 264,
+      "pvpElo": 1583,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x4eee7782892a1b64882831decaaf832c612ff9fe",
+      "id": "A010",
+      "name": "A010 | Ignacio Luna"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636389001509,
+      "rewards": 0,
+      "pvpElo": 1359,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x0b195415eb411e2e751885ebb9f86170cbbadfaa",
+      "id": "A005",
+      "name": "A005 | Sabrina Lamos"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601575,
+      "rewards": 0,
+      "pvpElo": 1174,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x22b3fde38409529d685f63390dcef0ddb32fc236",
+      "id": "A024",
+      "name": "A024 | Roman Garcia"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636392601602,
+      "rewards": 72,
+      "pvpElo": 1515,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x0ff66d6c156dacb75e5243e2170139ce0409098b",
+      "id": "B037",
+      "name": "B037 | José Zanotty"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801721,
+      "rewards": 732,
+      "pvpElo": 2158,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xe2a298445c29e19efaa5497eaf741b4b2593c200",
+      "id": "B045",
+      "name": "B045 | Yahir Osuna"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636389001478,
+      "rewards": 0,
+      "pvpElo": 1216,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xf5c1981108af1fc57611f8d3d4fece56013dc2f5",
+      "id": "B036",
+      "name": "B036 | Sophia Piazza"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636389001505,
+      "rewards": 0,
+      "pvpElo": 664,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xce1c1f6e069685e725cd2e333ed2c9a8c3ee8736",
+      "id": "B031",
+      "name": "B031 | Pahola Jiménez"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801734,
+      "rewards": 0,
+      "pvpElo": 1177,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xfb69163ff97bffb7fff6e933d836a36671e86c30",
+      "id": "B017",
+      "name": "B017 | Joaquín Fuentes"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801750,
+      "rewards": 0,
+      "pvpElo": 995,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0xbbd4f4b1e42089bfdb517959eb549f9a5ec658e7",
+      "id": "B032",
+      "name": "B032 | Cristina Martinez"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636399801797,
+      "rewards": 0,
+      "pvpElo": 1487,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x6ae7a976053e466232b1de58b4f23adf72977a78",
+      "id": "B019",
+      "name": "B019 | Genesis González"
+    },
+    {
+      "paymentAddress": "",
+      "updateTime": 1636389001568,
+      "rewards": 0,
+      "pvpElo": 1198,
+      "rewardsUpdateTime": 1636399802154,
+      "address": "0x593080ab5d44ee7a239a9b1cf30140dcb295f047",
+      "id": "B007",
+      "name": "B007 | Maximiliano Cruz"
+    }
+  ],
+  "Count": 68,
+  "ScannedCount": 68
+}
