@@ -6,7 +6,8 @@ const url =
 const normalizeData = (data) => {
   const dataNormalized = data
     .filter((i) => i.rewards > 0)
-    .sort((a, b) => b.rewards > a.rewards);
+    .sort((a, b) => b.rewards - a.rewards);
+    console.log(dataNormalized);
   return dataNormalized;
 };
 
@@ -18,5 +19,6 @@ export const getData = async () => {
   }
 
   let data = await response.json();
+  
   return await normalizeData(data.Items);
 };
