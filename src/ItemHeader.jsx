@@ -4,9 +4,9 @@ const ItemHeader = () => {
   return (
     <div className="item item--header">
       <p>N°</p>
-      <p className="item--name">Name</p>
-      <p>pvpElo</p>
-      <p>rewards</p>
+      <p className="item--name">Nombre</p>
+      <p>Copas</p>
+      <p>Rewards</p>
     </div>
   );
 };

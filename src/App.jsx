@@ -15,10 +15,15 @@ const instagram = "https://www.instagram.com/axiechileacademia";
 
 function App() {
   const [scholars, setScholars] = useState([]);
+  const [loadingData, setLoadingData] = useState(true);
 
   useEffect(() => {
     getData().then((data) => {
-      setScholars(data);
+      setTimeout(() => {
+        setScholars(data);
+        setLoadingData(false);
+      },700)
+
     });
   }, []);
 
@@ -32,6 +37,8 @@ function App() {
     />
   ));
 
+  const loader = <p class="loader">Fetching data...</p>;
+
   return (
     <div className="App">
       <header>
@@ -43,7 +50,8 @@ function App() {
         <div className="table">
           <ItemHeader />
 
-          {listItems}
+        
+          { loadingData ? loader : listItems}
         </div>
       </main>
       <footer>

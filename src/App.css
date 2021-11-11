@@ -46,23 +46,20 @@ footer {
 }
 
 .table {
-
   background-color: #20232a;
   border-radius: 8px;
-  padding: 2vh 4vw;
-
+  padding: 2vh 5vw;
 
   width: fit-content;
   margin: 0 auto;
 }
 
 .item {
-
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr 1fr;
+  grid-template-columns: 1fr 3fr 1fr 1fr;
   grid-column-gap: 5vw;
+  padding-top: 0.5em;
 }
-
 
 .item--header {
   font-weight: bold;
@@ -76,4 +73,8 @@ footer {
 
 .icons:hover {
   transform: scale(1.2);
+}
+
+.loader{
+  text-align: center;
 }
