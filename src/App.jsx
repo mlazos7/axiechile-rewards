@@ -1,4 +1,4 @@
-import "./App.css";
+import "./assets/styles/App.scss";
 import { Item } from "./Item";
 import AxieLogo from "./assets/img/logo.png";
 import "react-loading-skeleton/dist/skeleton.css";
